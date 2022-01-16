@@ -8,5 +8,6 @@ public class Main {
         Second s = new Second(3, 4, 5);
         System.out.print("для подкласса сумма будет такая ");
         System.out.println(s.sum());
+        s.print();
     }
 }

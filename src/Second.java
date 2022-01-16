@@ -13,4 +13,8 @@ public class Second extends First {
         return summa;
     }
 
+    public void print(){
+        System.out.println(this.c);
+    }
+
 }
